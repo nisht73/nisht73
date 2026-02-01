@@ -28,8 +28,36 @@ Actively participating in hackathons and improving coding skills daily.
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/nisht73/future-verse" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nisht73&repo=future-verse&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/nisht73/react" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nisht73&repo=react&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<b>Top Repositories</b>
 
-<br /><br /><br /><br /><br />
+<div width="100%" align="center">
 
-<div width="100%" align="center"><a href="https://github.com/nisht73/JS-based-projects" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nisht73&repo=JS-based-projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<a href="https://github.com/nisht73/future-verse">
+  <img 
+    width="45%" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nisht73&repo=future-verse&theme=dark&hide_border=true&cache_seconds=86400" 
+  />
+</a>
+
+<a href="https://github.com/nisht73/react">
+  <img 
+    width="45%" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nisht73&repo=react&theme=dark&hide_border=true&cache_seconds=86400" 
+  />
+</a>
+
+</div>
+
+<br/>
+
+<div width="100%" align="center">
+
+<a href="https://github.com/nisht73/JS-based-projects">
+  <img 
+    width="45%" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nisht73&repo=JS-based-projects&theme=dark&hide_border=true&cache_seconds=86400" 
+  />
+</a>
+
+</div>
+
