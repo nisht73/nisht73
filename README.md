@@ -23,36 +23,5 @@ Actively participating in hackathons and improving coding skills daily.
 <p align="left"> <a href="https://www.github.com/nisht73" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/nishant-tripathi-092a49332" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center">
-
-<a href="https://github.com/nisht73/future-verse">
-  <img 
-    width="45%" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nisht73&repo=future-verse&theme=dark&hide_border=true&cache_seconds=86400" 
-  />
-</a>
-
-<a href="https://github.com/nisht73/react">
-  <img 
-    width="45%" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nisht73&repo=react&theme=dark&hide_border=true&cache_seconds=86400" 
-  />
-</a>
-
-</div>
-
-<br/>
-
-<div width="100%" align="center">
-
-<a href="https://github.com/nisht73/JS-based-projects">
-  <img 
-    width="45%" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nisht73&repo=JS-based-projects&theme=dark&hide_border=true&cache_seconds=86400" 
-  />
-</a>
-
-</div>
 
